@@ -1,6 +1,6 @@
 # Image Analysis and Processing Using Python
 
-This repository contains the code and report for image analysis and processing tasks using Python. These projects were completed as part of the **Research Skills: Image Analysis** course (Course Code: 880877-M-3) at Tilburg University.
+This repository contains the code and report for image analysis and processing tasks using Python. These projects were completed as part of the **Research Skills: Image Analysis** course at Tilburg University.
 
 ## Project Overview
 
